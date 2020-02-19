@@ -1,0 +1,26 @@
+{
+  "name": "clickbait-cli",
+  "version": "1.0.0",
+  "description": "Screenshot clickbait news articles via the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justanman/clickbait.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justanman/clickbait/issues"
+  },
+  "homepage": "https://github.com/justanman/clickbait#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1",
+    "yargs": "^15.1.0"
+  },
+  "bin": {
+    "clickbait": "./index.js"
+  }
+}

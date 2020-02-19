@@ -1,6 +1,6 @@
 {
   "name": "clickbait-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Screenshot clickbait news articles via the command line.",
   "main": "index.js",
   "scripts": {

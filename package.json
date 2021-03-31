@@ -18,7 +18,7 @@
   "homepage": "https://github.com/justanman/clickbait#readme",
   "dependencies": {
     "puppeteer": "^2.1.1",
-    "yargs": "^15.1.0"
+    "yargs": "^16.2.0"
   },
   "bin": {
     "clickbait": "./index.js"
